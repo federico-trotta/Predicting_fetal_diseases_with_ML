@@ -12,4 +12,5 @@ After performing some EDA, I've developed a study subdivided in two phases:
 
 In the end, I've compared these two phases and chosen the best ML model.
 
-The Notebook is very well commented, but in some days I'll be writing an article on Medium.
+The Notebook is very well commented, but you may find helpful a deep explanatory article:
+you can read it [here](https://medium.com/mlearning-ai/predicting-fetal-diseases-with-machine-learning-ea48d72d47f1) 
