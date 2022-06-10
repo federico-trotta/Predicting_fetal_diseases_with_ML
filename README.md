@@ -1,8 +1,8 @@
-# Predcting Fetal Deseases With Machine Learning
+# Predicting Fetal Deseases With Machine Learning
 
-This project is the final progeject for the course in Data Science I took from 'Start to Impact'.
+This project is the final project for the course in Data Science I took from 'Start to Impact'.
 
-Here I'm analyzing some data reated to women's gestation and use Machine Learning to predict if the fetuses may develop some deseases.
+Here I'm analyzing some data related to women's gestation and use Machine Learning to predict if the fetuses may develop some deseases.
 The problem is a multi-class classification with three classes: 'normal', 'suspect', 'abnormal'.
 
 After performing some EDA, I've developed a study subdivided in two phases:
